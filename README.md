@@ -1,0 +1,2 @@
+# Projeto-destaque-no-Scratch-Featured-project-on-Scratch
+Pixel Bound é um jogo de plataforma criado no Scratch. Controle Bob e evite espinhos com saltos precisos em um mundo minimalista. Um projeto focado em fluidez, desafio e código bem estruturado / Pixel Bound is a platform game made in Scratch. Control Bob and avoid spikes with precise jumps in a minimalist world focused on flow and challenge
