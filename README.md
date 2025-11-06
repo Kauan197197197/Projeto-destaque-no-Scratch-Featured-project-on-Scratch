@@ -41,5 +41,55 @@ O projeto serve tanto como uma experiência divertida quanto como exemplo técni
 ## Autor
 
 **Desenvolvido por:** Kauan  
+
+
+versão em ingles
+
+# Pixel Bound
+
+**Pixel Bound** is a platform game created in **Scratch** that combines visual simplicity, precision, and challenge.  
+Control the **character**, a small pixelated hero who must carefully jump between spikes and traps in a minimalist world.
+
+**Play now:** [https://scratch.mit.edu/projects/1228971694/](https://scratch.mit.edu/projects/1228971694/)
+
+---
+
+## Main Features
+
+- Smooth movement and tuned jump physics  
+- Various obstacles with different patterns  
+- Organized and modular code for easy maintenance  
+
+---
+
+## Project Structure
+
+- **character:** main control, movement, and collision  
+- **spikes:** obstacles that cause failure  
+- **clouds and sun:** dynamic visual elements that compose the scenery  
+
+---
+
+## Objective
+
+Create a simple and engaging platform game demonstrating concepts of physics, collision logic, and minimalist design in Scratch.  
+The project serves both as a fun experience and as a technical example of visual game development.  
+
+---
+
+## How to Play
+
+- Use the **arrow keys** to move the character  
+- Jump over the **spikes** at the right time  
+- Reach the end of the level without touching any obstacle  
+
+---
+
+## Author
+
+**Developed by:** Kauan  
+**Platform:** Scratch  
+**Project:** [Pixel Bound](https://scratch.mit.edu/projects/1228971694/)
+
 **Plataforma:** Scratch  
 **Projeto:** [Pixel Bound](https://scratch.mit.edu/projects/1228971694/)
