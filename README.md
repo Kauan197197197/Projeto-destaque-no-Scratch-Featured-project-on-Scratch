@@ -43,7 +43,7 @@ O projeto serve tanto como uma experiência divertida quanto como exemplo técni
 **Desenvolvido por:** Kauan  
 
 
-versão em ingles
+## versão em ingles
 
 # Pixel Bound
 
